@@ -1,0 +1,75 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+# VS Code
+# ==============================
+
+.vscode/
+
+# ==============================
+# ML / DL Model Files
+# ==============================
+
+# Trained model files
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+
+# TensorBoard logs
+runs/
+logs/
+
+# ==============================
+# Datasets / Temporary Files
+# ==============================
+
+# Uncomment these if you DON'T want to upload datasets
+# data/
+# datasets/
+
+# ==============================
+# Python Packaging
+# ==============================
+
+*.egg-info/
+dist/
+build/
+
+# ==============================
+# OS Files
+# ==============================
+
+__pycache__/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Temporary Files
+# ==============================
+
+*.log
+*.tmp
+*.temp
